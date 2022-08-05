@@ -48,6 +48,6 @@ int maximum(int no1,int no2)
 int multiply(int no1,int no2)
 {
  
-    return no2;
+    return no1 * no2;
   }
 }
